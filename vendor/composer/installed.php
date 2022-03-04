@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => 'b3435747d72e8e62bfbb3cb0693528be1b6a0820',
+    'reference' => 'fb7de29a9eb4650e069a3517b00ac36363bb0a56',
     'name' => 'maithemewp/mai-inspire',
   ),
   'versions' => 
@@ -25,7 +25,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => 'b3435747d72e8e62bfbb3cb0693528be1b6a0820',
+      'reference' => 'fb7de29a9eb4650e069a3517b00ac36363bb0a56',
     ),
     'maithemewp/mai-installer' => 
     array (
@@ -35,7 +35,7 @@
       array (
         0 => '9999999-dev',
       ),
-      'reference' => '44561c1f7bb4bb0022787bb44974b573b2bca72d',
+      'reference' => '399fec687a9459b774c1bd1c44a38a806dfa052f',
     ),
   ),
 );
